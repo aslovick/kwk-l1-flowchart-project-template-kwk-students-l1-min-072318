@@ -4,6 +4,10 @@
 .varcds {
   font-size: 70px;
 }
+.list {
+  font-size: 48px;
+  text-align: center;
+}
 body {
 font-family: 'Unica One', cursive; 
 background-color: #F6FCD7;  
