@@ -67,3 +67,8 @@ h5{
 .countries {
   display: inline-block;
 }
+
+.char {
+  text-align: center;
+}
+
