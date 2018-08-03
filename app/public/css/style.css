@@ -5,7 +5,7 @@
   font-size: 70px;
 }
 .list {
-  font-size: 48px;
+  font-size: 28px;
   text-align: center;
 }
 body {
@@ -70,5 +70,6 @@ h5{
 
 .char {
   text-align: center;
+  font-size: 48px;
 }
 
